@@ -21,9 +21,4 @@ class Point:
 
 
 if __name__ == "__main__":
-    p1 = Point(10, 10)
-    print(p1)
-    p2 = Point(20, 30)
-    print(p2)
-    print(f'perimeter: {p2.perimeter(p1)}')
-    print(f'area: {p1.area(p2)}')
+    pass
